@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
 profile:
   align: left
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
 
 news: false  # includes a list of news items
@@ -19,6 +19,8 @@ social: false  # includes social icons at the bottom of the page
 **Yi Ding** \
 Assistant Professor \
 Department of Computer Science \
+Georgia State University <br />
+
 25 Park Pl., Rm 737 \
 Atlanta, GA 30303 <br />
 
@@ -29,8 +31,9 @@ Atlanta, GA 30303 <br />
 My research interests lie in the areas of Machine Learning and Human-Computer Interaction. In particular,
 I am interested in developing creative ML-based techniques to help address the unique needs of individuals. 
 Much of my current interest is in the development of multimodal methods that can 
-improve AI's understanding of nuanced human behaviors, and how this understanding can be effectively integrated into social contexts. I run the Assistive Intelligence Lab, come check us out!
+improve AI's understanding of nuanced human behaviors, and how this understanding can be effectively integrated into social contexts. 
 
+I run the Assistive Intelligence Lab, we are always welcoming of students! You can find more information on the [prospective students](/students) page. More of what we do will be added to the lab and publications sections.
 
 
 <!-- 
