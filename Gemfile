@@ -6,6 +6,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
+    gem 'jekyll-mermaid'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
