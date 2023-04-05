@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yding37.github.io/sitemap.xml
+Sitemap: https://yding37.github.io/_site//sitemap.xml
