@@ -33,7 +33,7 @@ I am interested in developing creative ML-based techniques to help address the u
 Much of my current interest is in the development of multimodal methods that can 
 improve AI's understanding of nuanced human behaviors, and how this understanding can be effectively integrated into social contexts. 
 
-I run the Assistive Intelligence Lab, we are always welcoming of students! You can find more information on the [prospective students](/students) page. More of what we do will be added to the lab and publications sections.
+I run the Assistive Intelligence Lab, we are always welcoming of students! You can find more information on the [prospective students](/students) page.
 
 
 <!-- 
