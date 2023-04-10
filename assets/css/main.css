@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. *****************************************************************************/
 /******************************************************************************* Themes *****************************************************************************/
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #2698BA; --global-hover-color: #0076df; --global-footer-bg-color: #ffffff; --global-footer-text-color: #1C1C1D; --global-footer-link-color: #828282; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); --global-card-bg-color: #ffffff; }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #2698BA; --global-hover-color: #0076df; --global-footer-bg-color: #ffffff; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #828282; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); --global-card-bg-color: #ffffff; }
 :root .fa-sun { display: none; }
 :root .fa-moon { padding-left: 10px; padding-top: 12px; display: block; }
 :root .repo-img-light { display: block; }
@@ -116,7 +116,7 @@ footer.fixed-bottom a:hover { color: var(--global-theme-color); text-decoration:
 footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); padding-top: 40px; padding-bottom: 40px; font-size: 0.9rem; }
 
 .cv { margin-bottom: 40px; }
-.cv .card { background-color: var(--global-card-bg-color); border: 1px solid var(--global-divider-color); }
+.cv .card { background-color: var(--global-card-bg-color); }
 .cv .card .list-group-item { background-color: inherit; border-color: var(--global-divider-color); }
 .cv .card .list-group-item .badge { color: var(--global-card-bg-color) !important; background-color: var(--global-theme-color) !important; }
 
@@ -144,10 +144,11 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .projects a { text-decoration: none; }
 .projects a:hover .card-title { color: var(--global-theme-color); }
+.projects .card { padding-bottom: 0; }
 .projects .card img { width: 100%; }
-.projects .card-item { width: auto; margin-bottom: 10px; }
-.projects .card-item .row { display: flex; align-items: center; }
-.projects .grid-sizer, .projects .grid-item { width: 250px; margin-bottom: 10px; }
+.projects .card-item { width: auto; padding-bottom: 0; margin-bottom: 10px; }
+.projects .card-item .row { display: flex; align-items: center; padding-bottom: 0; }
+.projects .grid-sizer, .projects .grid-item { width: 250px; }
 .projects h2.category { color: var(--global-divider-color); border-bottom: 1px solid var(--global-divider-color); padding-top: 0.5rem; margin-top: 2rem; margin-bottom: 1rem; text-align: right; }
 
 .publications { margin-top: 2rem; }
