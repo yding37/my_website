@@ -5,7 +5,7 @@ title: Lab
 description: 
 nav: true
 nav_order: 1
-people_categories: [Doctoral, Masters, Undergraduate]
+people_categories: [Doctoral, Masters, Undergraduate, Visiting Researcher]
 horizontal: true
 ---
 <div style="text-align: center">
@@ -15,16 +15,15 @@ horizontal: true
     Students building our new server in 2023!
 </div>
 <!-- 
-### PhD Students
-Uthman Jinadu (PhD, started Fall 2022)\
-Anjila Budathoki (PhD, starting Fall 2023)
+<!-- ### PhD Students -->
+<!-- Uthman Jinadu (PhD, started Fall 2022)\
+Anjila Budathoki (PhD, starting Fall 2023) -->
 
-### Masters Students
-Ayantan Dandapath (MS, started Fall 2022) \
-Jesse Annan (MS, started Fall 2022)
+<!-- ### Masters Students -->
+<!-- Jesse Annan (MS, started Fall 2022) -->
 
-### Undergraduate Students
-Preetham Thelluri (BS, Class of 2024) -->
+<!-- ### Undergraduate Students -->
+<!-- Preetham Thelluri (BS, Class of 2024) -->
 
 
 <div class="projects">
@@ -36,9 +35,10 @@ Preetham Thelluri (BS, Class of 2024) -->
   {%- if categorized_people %}
   {%- assign sorted_people = categorized_people | sort: "importance" %}
   <!-- Generate cards for each project -->
-  <div class="container">
+  <div class="container row g-1">
     {%- for person in sorted_people -%}
-    <div class="row g-1">
+    <!-- <div class="row g-1"> -->
+    <div class="float-left col-md-6">
       {% include people_horizontal.html %}
     </div>
     {%- endfor %}
@@ -46,3 +46,6 @@ Preetham Thelluri (BS, Class of 2024) -->
   {% endif %}
   {% endfor %}
 </div>
+
+
+

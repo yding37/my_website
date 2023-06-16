@@ -525,9 +525,15 @@ footer.sticky-bottom {
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    text-align: left;
   }
 }
+
+
+.card-text {
+  font-size: .9em;
+}
+
 
 
 // Publications

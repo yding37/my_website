@@ -1,11 +1,11 @@
-<div class="card-item col border-0">
+<div class="card-item col">
   <!-- {%- if people.redirect -%}
   <a href="{{ people.redirect }}">
   {%- else -%}
   <a href="{{ people.url | relative_url }}">
   {%- endif -%} -->
-    <div class="card border-0">
-      <div class="row g-0">
+    <!-- <div class="card border-0"> -->
+      <div class="row g-0 p-1">
         {%- if person.img -%}
         <div class="card-img col-md-4">
           
@@ -17,17 +17,17 @@
             onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
           />
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8 p-1">
         {%- else -%}
-        <div class="col-md-12">
+        <div class="col-md-12 p-1">
         {%- endif -%}
-          <div class="card-body">
-            <h3 class="card-title">{{ person.title }}</h3>
+          <div class="card-body p-1">
+            <h5 class="card-title">{{ person.title }}</h5>
             <p class="card-text">{{ person.description }}</p>
             
           </div>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
   <!-- </a> -->
 </div>
