@@ -1,0 +1,9 @@
+Testing:
+
+bundle exec jekyll serve .
+
+Compile and push:
+
+bundle exec jekyll build
+
+git subtree push --prefix _site origin origin/gh-pages
