@@ -6,4 +6,4 @@ Compile and push:
 
 bundle exec jekyll build
 
-git subtree push --prefix _site origin origin/gh-pages
+git subtree push --prefix _site origin gh-pages
