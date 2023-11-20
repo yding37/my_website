@@ -38,7 +38,7 @@ Anjila Budathoki (PhD, starting Fall 2023) -->
   <div class="container row g-1">
     {%- for person in sorted_people -%}
     <!-- <div class="row g-1"> -->
-    <div class="float-left col-md-6">
+    <div class="float-left col-md-4 justify-content-center">
       {% include people_horizontal.html %}
     </div>
     {%- endfor %}
