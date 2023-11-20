@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- Spring 2024: Advanced Machine Learning
+- Fall 2023: Fundamentals of Data Science
 - Spring 2023: Fundamentals of Data Science 
 - Summer 2019: Foundations of Computer Science (Discrete Mathematics. Taught at UCSB)
 
