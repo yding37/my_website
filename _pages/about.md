@@ -35,9 +35,9 @@ Atlanta, GA 30303 <br />
 My research interests lie in the areas of Machine Learning and Human-Computer Interaction. In particular,
 I am interested in developing creative ML-based techniques to help address the unique needs of individuals. 
 Much of my current interest is in the development of multimodal methods that can 
-improve AI's understanding of nuanced human behaviors, and how this understanding can be effectively integrated into social contexts.
+improve AI's understanding of nuanced human behaviors. Additionally, how this understanding can be used to responsibly integrate intelligent automation into social contexts.
 
-I run the [Assistive Intelligence Lab](/lab) and also a Co-PI in the Center for Integrated AI Research at the Edge (<a href="https://titan.cs.gsu.edu/~ciare/">CiARE</a>). We are always welcoming of students! You can find more information on the [prospective students](/students) page. 
+I run the [Assistive Intelligence Lab](/lab). I am also a Co-PI in the Center for Integrated AI Research at the Edge (<a href="https://titan.cs.gsu.edu/~ciare/">CiARE</a>) where I lead the Human-AI Collaboration research thrust with a strong emphasis on the development of trustworthy AI algorithms. We are always welcoming of students! You can find more information on the [prospective students](/students) page. 
 
 
 
