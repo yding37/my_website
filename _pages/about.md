@@ -28,7 +28,7 @@ Atlanta, GA 30303 <br />
 **LinkedIn:** <a href="https://www.linkedin.com/in/yding37/">https://www.linkedin.com/in/yding37/</a> \
 **Google Scholar:** <a href="https://scholar.google.com/citations?user=SmPIO90AAAAJ&hl=en">Scholar</a>
 
-**Multiple positions open! I am looking to hire 5 PhD students and 1 Post Doc/Research Scientist for Fall 2024.**
+**Our lab has multiple positions open for Fall 2024.**
 
 **Students with interests in all areas of ML, HCI, Trustworthy AI, Social Computing, and others are encouraged to contact me.**
 

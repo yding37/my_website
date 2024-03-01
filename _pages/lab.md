@@ -5,26 +5,30 @@ title: Lab
 description: 
 nav: true
 nav_order: 1
-people_categories: [Doctoral, Masters, Undergraduate, Visiting Researcher]
+people_categories: [Doctoral, Masters, Undergraduate, Visiting Researcher, Past]
 horizontal: true
 ---
-<div style="text-align: center">
-        {% include figure.html path="assets/img/lab-pc-building-2023.jpeg" class="img-fluid rounded z-depth-1" width="75%" %}
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item">
+      <img class="d-block w-100" src="../assets/img/reading_group.jpeg">
     </div>
-<div class="caption">
-    Students building our new server in 2023!
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="../assets/img/holiday_lunch.jpg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="../assets/img/lab-pc-building-2023.jpeg">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-<!-- 
-<!-- ### PhD Students -->
-<!-- Uthman Jinadu (PhD, started Fall 2022)\
-Anjila Budathoki (PhD, starting Fall 2023) -->
-
-<!-- ### Masters Students -->
-<!-- Jesse Annan (MS, started Fall 2022) -->
-
-<!-- ### Undergraduate Students -->
-<!-- Preetham Thelluri (BS, Class of 2024) -->
-
 
 <div class="projects">
   <!-- Display categorized projects -->
