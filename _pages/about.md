@@ -28,16 +28,13 @@ Atlanta, GA 30303 <br />
 **LinkedIn:** <a href="https://www.linkedin.com/in/yding37/">https://www.linkedin.com/in/yding37/</a> \
 **Google Scholar:** <a href="https://scholar.google.com/citations?user=SmPIO90AAAAJ&hl=en">Scholar</a>
 
-**Our lab has multiple positions open for Fall 2024.**
-
-**Students with interests in all areas of ML, HCI, Trustworthy AI, Social Computing, and others are encouraged to contact me.**
+**I am always looking for strong, self-motivated students. ** If you are interested, please reach out. 
 
 My research interests lie in the areas of Machine Learning and Human-Computer Interaction. In particular,
 I am interested in developing creative ML-based techniques to help address the unique needs of individuals. 
 Much of my current interest is in the development of multimodal methods that can 
 improve AI's understanding of nuanced human behaviors. Additionally, how this understanding can be used to responsibly integrate intelligent automation into social contexts.
 
-I run the [Assistive Intelligence Lab](/lab). I am also a Co-PI in the Center for Integrated AI Research at the Edge (<a href="https://titan.cs.gsu.edu/~ciare/">CiARE</a>) where I lead the Human-AI Collaboration research thrust with a strong emphasis on the development of trustworthy AI algorithms. We are always welcoming of students! You can find more information on the [prospective students](/students) page. 
-
+I run the [Assistive Intelligence Lab](/lab). We are always welcoming of students! You can find more information on the [prospective students](/students) page. 
 
 
