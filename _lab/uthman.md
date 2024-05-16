@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uthman Jinadu (2022 -)
+title: Uthman Jinadu (F22)
 description: Human-Computer Interaction (HCI), Machine Learning, Healthcare.
 img: assets/img/uthman.jpg
 importance: 1

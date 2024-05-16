@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trilok Padhi (2022 -)
+title: Trilok Padhi (F22)
 description: Machine Learning (Co-advised with Ugur Kursuncu)
 img: assets/img/trilok.jpg
 importance: 100
