@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Kevin Jacobs
-description: Machine Learning.
+description: Machine Learning, NLP (GaTech)
 img: assets/img/kevinjacobs.jpg
 importance: 1
-category: Visiting Researcher
+category: Undergraduate
 ---
