@@ -2,7 +2,7 @@
 layout: page
 title: Ridvan Taskiran
 description: Machine Learning
-img: assets/img/panther.png
+img: no
 importance: 2
-category: Masters
+category: Past
 ---
