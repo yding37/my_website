@@ -11,6 +11,12 @@ horizontal: true
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item">
+      <img class="d-block w-100" src="../assets/img/hike-2024.jpeg">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="../assets/img/dinner-2024.jpeg">
+    </div>
+    <div class="carousel-item">
       <img class="d-block w-100" src="../assets/img/reading_group.jpeg">
     </div>
     <div class="carousel-item active">
