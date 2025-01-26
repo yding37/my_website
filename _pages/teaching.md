@@ -7,8 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-- Fall 2024: Advanced Natural Language Processing
-- Spring 2024: Advanced Machine Learning
+- Fall 2024: Advanced Natural Language Processing (Teaching Reiew: 4.94/5)
+- Spring 2024: Advanced Machine Learning (Teaching Review: 4.78/5)
 - Fall 2023: Fundamentals of Data Science (Teaching Review: 4.49/5)
 - Spring 2023: Fundamentals of Data Science (Teaching Review: 4.24/5)
 - Summer 2019: Foundations of Computer Science (Discrete Mathematics. Taught at UCSB)
